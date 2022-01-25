@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/17_musicplay/app/src/main/res/drawable/player_seek_background.xml" value="0.25729166666666664" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/17_musicplay/app/src/main/res/drawable/player_seek_thumb.xml" value="0.25729166666666664" />
         <entry key="..\:/Users/ksong/AndroidStudioProjects/17_musicplay/app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
-        <entry key="..\:/Users/ksong/AndroidStudioProjects/17_musicplay/app/src/main/res/layout/fragment_player.xml" value="0.165" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/17_musicplay/app/src/main/res/layout/fragment_player.xml" value="0.1" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/17_musicplay/app/src/main/res/layout/item_music.xml" value="0.1" />
       </map>
     </option>
   </component>
